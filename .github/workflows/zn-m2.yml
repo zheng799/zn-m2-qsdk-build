@@ -18,7 +18,7 @@ permissions:
   actions: write
 
 env:
-  REPO_URL: https://github.com/ruaabbit/qsdk.git
+  REPO_URL: https://github.com/zheng799/qsdk.git
   REPO_BRANCH: ipq60xx
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: ./config/zn-m2.config
