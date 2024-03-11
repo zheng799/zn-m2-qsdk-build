@@ -19,7 +19,7 @@ permissions:
 
 env:
   REPO_URL: https://github.com/zheng799/qsdk.git
-  REPO_BRANCH: ipq60xx
+  REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: ./config/zn-m2.config
   DIY_P1_SH: ./scripts/zn-m2/diy-part1.sh
